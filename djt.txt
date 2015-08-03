@@ -1,0 +1,17 @@
+来自于： http://developer.android.com/guide/topics/connectivity/bluetooth-le.html
+Android：
+BluetoothLeGatt
+
+由于java目录不在源文件编译路径，需要：
+在src中建立包，com.example.android.bluetoothlegatt
+将java目录下的相应文件移入src中
+
+注释主题：
+res/values-v21/base-template-styles.xml
+<resources>
+
+    <!-- Activity themes -->
+    <!-- <style name="Theme.Base" parent="android:Theme.Material.Light"> -->
+    <!-- </style> -->
+  
+</resources>
